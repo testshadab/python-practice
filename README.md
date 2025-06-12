@@ -23,7 +23,7 @@ No external dependencies required—just make sure Python is installed.
 
 python filename.py
 
-For example: python basics/hello_world.py
+- For example: python basics/hello_world.py
 
 ### 📌 Topics Covered
 Python Basics: variables, operators, control flow
